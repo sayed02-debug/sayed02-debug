@@ -1,7 +1,7 @@
 # Hi, I'm Abu Sayed Islam 👋
 
 ## 🙋‍♂️ About Me
-- 🎓 I'm a **CSE Student** at a Bangladeshi University.
+- 🎓 I'm a **CSE Student** at a Jagannath University.
 - 🌱 Currently learning **Flutter**, **Python**, **SQA**, and **Dart**.
 - 💻 Interested in **Cybersecurity**, **SQA**, and **Trading**.
 - 📫 Reach me at: [mdabusayedislam2@gmail.com](mailto:mdabusayedislam2@gmail.com)
